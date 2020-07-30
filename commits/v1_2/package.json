@@ -13,7 +13,7 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "~4.15.2",
-    "gulp": "^3.9.1",
+    "gulp": "~4.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^3.0.0",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "jasmine-core": "^2.6.2",
-    "karma": "^1.7.0",
+    "karma": "^4.0.0",
     "karma-jasmine": "^1.1.0",
     "karma-phantomjs-launcher": "^1.0.4"
   }
